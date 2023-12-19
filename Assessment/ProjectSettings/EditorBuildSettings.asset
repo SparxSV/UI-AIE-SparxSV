@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LightBot/Scenes/MainMenu.unity
+    guid: 5dbfd36a66054bb42a814c390259d4bb
+  - enabled: 1
+    path: Assets/LightBot/Scenes/Settings.unity
+    guid: 845e23aa14e5c3d46819f5d458c1040a
+  - enabled: 1
+    path: Assets/LightBot/Scenes/LightBot.unity
+    guid: 7a25a9399d4aed2449aaed25917cff1a
+  m_configObjects: {}
